@@ -5,6 +5,6 @@ fn main() {
     println!("Hello, world!");
     let name = "Hello";
     let name2 = "World";
-    println_f!("Hello {name2}!");
+    println_f!("{name} {name2}!");
 
 }
